@@ -1,12 +1,12 @@
-Cryptoza - Trusted & Secure Trading Crypto Wallet
+Cryptodo - Trusted & Secure Trading Crypto Wallet
 
-This is a cryptocurrency wallet html template made by codewithsadee.
+This is a cryptocurrency wallet html template made by subhadeep.
 
 
 
 #---------- HEADER ----------#
 
-alt = Cryptoza home
+alt = Cryptodo home
 
 aria-label = close menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
@@ -249,7 +249,7 @@ Join the Conversation
 <ion-icon name="logo-dribbble"></ion-icon>
 <ion-icon name="logo-behance"></ion-icon>
    
-Copyright codewithsadee 2022. All rights reserved.
+Copyright subhadeep 2023. All rights reserved.
 
 Support
 Privacy Policy
